@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Game Projects
-- 📫 How to reach me : contact: support@mayankvikash.ml
+- 📫 How to reach me : https://mayankvikash.ml/
 
 <!---
 MayankVikash/MayankVikash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
